@@ -1,4 +1,4 @@
-<h1> 😁 Salutations, my name is __Rafael Reis__  and this is my github perfil!</h1>
+<h1> 😁 Salutations, my name is __Rafael Reis__  and this is my github profile!</h1>
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
 web applications, network, security, pentest. </p>
 <p> - 💼 Jobs: Making web sites to startups, doing a blog with my friend.</p>
