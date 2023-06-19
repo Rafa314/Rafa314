@@ -2,7 +2,7 @@
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
 web applications, network, security, pentest </p>
 <h3> Technologies that I'm learning or working on :P  </h3>
-<div style="display:flex; justify-content: space-between;">
+<div style="display:flex; justify-content: align-items;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="python" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="C" height="50px" width="auto">
