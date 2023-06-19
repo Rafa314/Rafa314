@@ -10,7 +10,7 @@ web applications, network, security, pentest </p>
 <img src="https://icons.iconarchive.com/icons/martz90/hex/128/css-3-icon.png" alt="CSS" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/javascript-icon.png" alt="Javascript" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/django-icon.png"  alt="Django" height="50px" width="auto">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnmap.org%2Fimages%2F&psig=AOvVaw0XjIZwCgSsg43VZSE3a_py&ust=1687225329546000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDjlqSazv8CFQAAAAAdAAAAABAE"  alt="Nmap" height="50px" width="auto">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png"  alt="Nmap" height="50px" width="auto">
 </div>  
 
 <!--
