@@ -8,7 +8,7 @@ Jr Penetration Tester(tryhackme), Pentest free course(Solyd Offensive Security),
 <p> - 📄 Certificates or completed roadmaps: certificate Basics Python(Fundação Bradesco),certificate Kivy Python(Fundação Bradesco),  certificate Introduction
 to network(Fundação Bradesco), certificate Basics Html(Fundação Bradesco).</p>  
 <h3> Technologies that I'm learning or working on with... :P </h3>
-<div style="display:flex;"> 
+<div style="display:flex; background-color="#fff"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="python" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/c-icon.png" alt="C" height="50px" width="auto">
