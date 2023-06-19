@@ -1,5 +1,5 @@
 ### Salutations my name is Rafael and this is my github perfil 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <p>I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
 web applications, network, security, pentest</p>
 <!--
