@@ -1,4 +1,4 @@
-<h1> 😁 Salutations my name is __Rafael Reis__  and this is my github perfil!</h1>
+<h1> 😁 Salutations, my name is __Rafael Reis__  and this is my github perfil!</h1>
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
 web applications, network, security, pentest </p> <br>
 <h3> Technologies that I'm learning or working on with... :P </h3>
@@ -13,20 +13,9 @@ web applications, network, security, pentest </p> <br>
   <img src="https://nmap.org/images/nmap-logo-256x256.png"  alt="Nmap" height="50px" width="auto">
 </div>  
 
-<p> - 📫 Courses I'm doing: </p>
-<p> - 📖 Books I'm reading: </p>
-<p> - 📄 Certificates or completed roadmaps: </p> 
-<!--
-**Rafa314/Rafa314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> - 💼 Jobs: Making web sites to startups, doing a blog with my friend</p>
+<p> - 📫 Courses or roadmaps I'm doing: Web Programming with Python and javaScript(CS50), introduction to security (Fundação Bradesco), Basics Network(CISCO), pre-security(tryhackme), 
+Jr Penetration Tester(tryhackme), Pentest free course(Solyd Offensive Security), Pyhton para Hackers(Afonso da Silva), system development(technical course, proz)</p>
+<p> - 📖 Books I'm reading: Advanced Programming in Linux, Linux Basics for Hackers ... </p>
+<p> - 📄 Certificates or completed roadmaps: certificate Basics Python(Fundação Bradesco),certificate Kivy Python(Fundação Bradesco),  certificate Introduction
+to network(Fundação Bradesco), certificate Basics Html(Fundação Bradesco)</p>  
