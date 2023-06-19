@@ -1,6 +1,6 @@
-<h1> 😁 Salutations my name is Rafael Reis and this is my github perfil!</h1>
+<h1> 😁 Salutations my name is <b>Rafael Reis</b>  and this is my github perfil!</h1>
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
-web applications, network, security, pentest </p>
+web applications, network, security, pentest </p> <br>
 <h3> Technologies that I'm learning or working on with... :P </h3>
 <div style="display:flex;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
@@ -13,6 +13,9 @@ web applications, network, security, pentest </p>
   <img src="https://nmap.org/images/nmap-logo-256x256.png"  alt="Nmap" height="50px" width="auto">
 </div>  
 
+<p> - 📫 Courses I'm doing: </p>
+<p> - 📖 Books I'm reading: </p>
+<p> - 📄 Certificates or completed roadmaps: </p> 
 <!--
 **Rafa314/Rafa314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
