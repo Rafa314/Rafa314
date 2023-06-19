@@ -1,10 +1,12 @@
 <h1> 😁 Salutations my name is Rafael Reis and this is my github perfil!</h1>
 <h3> Technologies that I'm learning or working on :P  </h3>
+<div style="inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="python" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="C" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="HTML" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="Javascript" height="50px" width="auto">
+</div>  
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
 web applications, network, security, pentest </p>
 <!--
