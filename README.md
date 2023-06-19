@@ -1,7 +1,7 @@
 ### Salutations my name is Rafael and this is my github perfil 
 
-<h1>I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
-web applications, network, security, pentest</h1>
+<p>I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
+web applications, network, security, pentest</p>
 <!--
 **Rafa314/Rafa314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
