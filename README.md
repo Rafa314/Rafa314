@@ -1,14 +1,14 @@
 <h1> 😁 Salutations my name is Rafael Reis and this is my github perfil!</h1>
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
 web applications, network, security, pentest </p>
-<h3> Technologies that I'm learning or working on... :P </h3>
+<h3> Technologies that I'm learning or working on with... :P </h3>
 <div style="display:flex;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="python" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/c-icon.png" alt="C" height="50px" width="auto">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="HTML" height="50px" width="auto">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="CSS" height="50px" width="auto">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="Javascript" height="50px" width="auto">
+<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-html-5-icon.png" alt="HTML" height="50px" width="auto">
+<img src="https://icons.iconarchive.com/icons/martz90/hex/128/css-3-icon.png" alt="CSS" height="50px" width="auto">
+<img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/javascript-icon.png" alt="Javascript" height="50px" width="auto">
   <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/django-icon.png"  alt="Django" height="50px" width="auto">
 </div>  
 
