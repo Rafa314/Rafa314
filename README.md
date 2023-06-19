@@ -1,6 +1,6 @@
 <h1> 😁 Salutations, my name is __Rafael Reis__  and this is my github perfil!</h1>
 <p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
-web applications, network, security, pentest </p> <br>
+web applications, network, security, pentest </p>
 <p> - 💼 Jobs: Making web sites to startups, doing a blog with my friend</p>
 <p> - 📫 Courses or roadmaps I'm doing: Web Programming with Python and javaScript(CS50), introduction to security (Fundação Bradesco), Basics Network(CISCO), pre-security(tryhackme), 
 Jr Penetration Tester(tryhackme), Pentest free course(Solyd Offensive Security), Pyhton para Hackers(Afonso da Silva), system development(technical course, proz)</p>
