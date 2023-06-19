@@ -3,13 +3,13 @@
 web applications, network, security, pentest </p>
 <h3> Technologies that I'm learning or working on... :P </h3>
 <div style="display:flex;"> 
-<img src="https://icons8.com.br/icon/17842/linux" alt="linux" height="50px" width="auto">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="python" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="C" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="HTML" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="CSS" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="Javascript" height="50px" width="auto">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="Django" height="50px" width="auto">
+  <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/django-icon.png" width="128" height="128" alt="Django" height="50px" width="auto">
 </div>  
 
 <!--
