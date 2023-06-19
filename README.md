@@ -5,7 +5,7 @@ web applications, network, security, pentest </p>
 <div style="display:flex;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="python" height="50px" width="auto">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="C" height="50px" width="auto">
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/c-icon.png" alt="C" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="HTML" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="CSS" height="50px" width="auto">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="Javascript" height="50px" width="auto">
