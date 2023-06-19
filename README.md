@@ -1,7 +1,12 @@
-### Salutations my name is Rafael and this is my github perfil 
+### 😁 Salutations my name is Rafael Reis and this is my github perfil!
+## Technologies that I'm learning or working on :P 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
-<p>I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
-web applications, network, security, pentest</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="python" height="50px" width="auto">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="C" height="50px" width="auto">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="HTML" height="50px" width="auto">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="Javascript" height="50px" width="auto">
+<p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
+web applications, network, security, pentest </p>
 <!--
 **Rafa314/Rafa314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
