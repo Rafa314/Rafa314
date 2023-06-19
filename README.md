@@ -17,6 +17,7 @@ to network(Fundação Bradesco), certificate Basics Html(Fundação Bradesco).</
 <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/javascript-icon.png" alt="Javascript" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/128/django-icon.png"  alt="Django" height="50px" width="auto">
   <img src="https://nmap.org/images/nmap-logo-256x256.png"  alt="Nmap" height="50px" width="auto">
+  <img src="https://icons.iconarchive.com/icons/icons8/windows-8/128/Files-Sql-icon.png" alt="SQL" height="50px" width="auto">
 </div>  
 
 
