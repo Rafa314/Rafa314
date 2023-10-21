@@ -6,7 +6,7 @@ redes, python, segurança e TI. </p>
 <p> - 📄 Certificados:<br>Cisco CyberSecurity Essentials <a href="https://www.credly.com/badges/2cc04068-e775-4a72-a801-26ef1653c366/public_url">Clique aqui para ver! </a><br>
 certificate Basics Python(Fundação Bradesco)<br>certificate Kivy Python(Fundação Bradesco)<br>  certificate Introduction
 to network(Fundação Bradesco)<br> certificate Basics Html(Fundação Bradesco).</p>  
-<h3> Tecnologias que estpu estudando... :P </h3>
+<h3> Tecnologias que sei ou estou estudando... :P </h3>
 <div style="display:flex;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="python" height="50px" width="auto">
