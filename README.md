@@ -3,10 +3,10 @@
 redes, python, segurança e TI. </p>
 <p> - 💻 Estudando Segurança da Informação na Faculdade de São Paulo de Tecnologia (Fatec)</p>
 <p> - 📫 Cursos que estou estudando:</p>
-<p> - 📄 Certificados:Cisco CyberSecurity Essentials: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2cc04068-e775-4a72-a801-26ef1653c366" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
+<p> - 📄 Certificados:Cisco CyberSecurity Essentials <a href="https://www.credly.com/badges/2cc04068-e775-4a72-a801-26ef1653c366/public_url">Clique aqui para ver! </a>
 certificate Basics Python(Fundação Bradesco),certificate Kivy Python(Fundação Bradesco),  certificate Introduction
 to network(Fundação Bradesco), certificate Basics Html(Fundação Bradesco).</p>  
-<h3> Technologies that I'm learning or working on with... :P </h3>
+<h3> Tecnologias que estpu estudando... :P </h3>
 <div style="display:flex;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="python" height="50px" width="auto">
