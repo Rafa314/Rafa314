@@ -2,7 +2,7 @@
 <p> - 👨🏻‍💻 Eu comecei a estudar ciência da computação há 2 anos, programando em linguagem C...agora meu foco de estudo é: 
 Redes, Python, Segurança e TI. </p>
 <p> - 💻 Estudando Segurança da Informação na Faculdade de São Paulo de Tecnologia (Fatec)</p>
-<p> - 📫 Cursos que estou estudando:Cisco IT Essentials <br> PCAP - Programming Essentials with Python <br> Cisco Introduction to CyberSecurity <br> Cisco Networking Basics <br> Cisco English for IT:2 <br> Cisco Ethical Hacker
+<p> - 📫 Cursos que estou estudando:<br>Cisco IT Essentials <br> PCAP - Programming Essentials with Python <br> Cisco Introduction to CyberSecurity <br> Cisco Networking Basics <br> Cisco English for IT:2 <br> Cisco Ethical Hacker
 <br>Cisco Network Addressing and Basic Troubleshooting </p>
 <p> - 📄 Certificados:<br>Cisco CyberSecurity Essentials <a href="https://www.credly.com/badges/2cc04068-e775-4a72-a801-26ef1653c366/public_url">Clique aqui para ver! </a><br>
 </p>  
