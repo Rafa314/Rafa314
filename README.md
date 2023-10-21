@@ -1,11 +1,11 @@
 <h1> 😁 Saudações, meu nome é __Rafael Reis__  e este é meu perfil do Github!</h1>
 <p> - 👨🏻‍💻 Eu comecei a estudar ciência da computação há 2 anos, programando em linguagem C...agora meu foco de estudo é: 
-redes, python, segurança e TI. </p>
+Redes, Python, Segurança e TI. </p>
 <p> - 💻 Estudando Segurança da Informação na Faculdade de São Paulo de Tecnologia (Fatec)</p>
-<p> - 📫 Cursos que estou estudando:</p>
+<p> - 📫 Cursos que estou estudando:Cisco IT Essentials <br> PCAP - Programming Essentials with Python <br> Cisco Introduction to CyberSecurity <br> Cisco Networking Basics <br> Cisco English for IT:2 <br> Ethical Hacker
+<br>Cisco Network Addressing and Basic Troubleshooting </p>
 <p> - 📄 Certificados:<br>Cisco CyberSecurity Essentials <a href="https://www.credly.com/badges/2cc04068-e775-4a72-a801-26ef1653c366/public_url">Clique aqui para ver! </a><br>
-certificate Basics Python(Fundação Bradesco)<br>certificate Kivy Python(Fundação Bradesco)<br>  certificate Introduction
-to network(Fundação Bradesco)<br> certificate Basics Html(Fundação Bradesco).</p>  
+</p>  
 <h3> Tecnologias que sei ou estou estudando... :P </h3>
 <div style="display:flex;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Made_with_Linux.svg" alt="linux" height="50px" width="auto">
