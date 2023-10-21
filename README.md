@@ -1,11 +1,10 @@
-<h1> 😁 Salutations, my name is __Rafael Reis__  and this is my github profile!</h1>
-<p> - 👨🏻‍💻 I started to study computer science 2 years ago when I learned C language...now my focus is continue to study: 
-web applications, network, security, pentest. </p>
-<p> - 💼 Jobs: Making web sites to startups, doing a blog with my friend.</p>
-<p> - 📫 Courses or roadmaps I'm doing: Web Programming with Python and javaScript(CS50), introduction to security (Fundação Bradesco), Basics Network(CISCO), pre-security(tryhackme), 
-Jr Penetration Tester(tryhackme), Pentest free course(Solyd Offensive Security), Pyhton para Hackers(Afonso da Silva), system development(technical course, proz)</p>
-<p> - 📖 Books I'm reading: Advanced Programming in Linux, Linux Basics for Hackers ... </p>
-<p> - 📄 Certificates or completed roadmaps: certificate Basics Python(Fundação Bradesco),certificate Kivy Python(Fundação Bradesco),  certificate Introduction
+<h1> 😁 Saudações, meu nome é __Rafael Reis__  e este é meu perfil do Github!</h1>
+<p> - 👨🏻‍💻 Eu comecei a estudar ciência da computação há 2 anos, programando em linguagem C...agora meu foco de estudo é: 
+redes, python, segurança e TI. </p>
+<p> - 💻 Estudando Segurança da Informação na Faculdade de São Paulo de Tecnologia (Fatec)</p>
+<p> - 📫 Cursos que estou estudando:</p>
+<p> - 📄 Certificados:Cisco CyberSecurity Essentials: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2cc04068-e775-4a72-a801-26ef1653c366" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
+certificate Basics Python(Fundação Bradesco),certificate Kivy Python(Fundação Bradesco),  certificate Introduction
 to network(Fundação Bradesco), certificate Basics Html(Fundação Bradesco).</p>  
 <h3> Technologies that I'm learning or working on with... :P </h3>
 <div style="display:flex;"> 
