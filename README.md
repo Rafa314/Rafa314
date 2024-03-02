@@ -2,6 +2,7 @@
 <p> - 👨🏻‍💻 Eu comecei a estudar ciência da computação há 2 anos, programando em linguagem C...agora meu foco de estudo é: 
 Redes, Python, Segurança e TI. </p>
 <p> - 💻 Estudando Segurança da Informação na São Paulo State Technological Colleges(Fatec)</p>
+<p> - 🛡 Estagiário de Segurança da Informação</p>
 <p> - 📄 Certificados:<br>Cisco CyberSecurity Essentials <a href="https://www.credly.com/badges/2cc04068-e775-4a72-a801-26ef1653c366/public_url">Clique aqui para ver! </a><br>
 </p>  
 <h3> Tecnologias que sei ou estou estudando... :P </h3>
