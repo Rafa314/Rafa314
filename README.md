@@ -1,4 +1,4 @@
-## What's up! My Name is Rafa 👋
+## Hi! My Name is Rafa 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafa314&hide=stars,issues&show_icons=true&theme=dracula&hide_progress=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa314&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
