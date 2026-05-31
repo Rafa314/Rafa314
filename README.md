@@ -4,7 +4,7 @@
 ---
 
 ### 💻 About Me
-Developer and researcher specializing in **Offensive Security (Red Team)**, penetration testing, and secure software development. Deeply interested in low-level systems, automated exploitation, and currently expanding expertise into **Development & Security**.
+Developer and researcher specializing in **Offensive Security (Red Team)**, penetration testing, and secure software development. Deeply interested in **Development & Security**.
 
 - 📍 São Paulo, Brazil
 - 🛡️ Focus: Pentesting, IoT Security, Computer Vision (YOLO) and Development.
@@ -49,12 +49,10 @@ Developer and researcher specializing in **Offensive Security (Red Team)**, pene
 ### 🎯 Current Focus
 - **Mobile Engineering:** Exploring ecosystem fundamentals and mobile security vectors through **Kotlin**, **Flutter**, and **Android Studio**.
 - **Academic Research:** Graduation project (TCC) focused on **IoT Security**, **Computer Vision (YOLO)**, and **Data Poisoning / IP Spoofing** simulations.
-- **Certifications:** Continuous training for offensive security industry certifications (**eJPT, DCPT, NPP**).
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafa314&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafa314&theme=dark" alt="Streak Stats" width="48%" />
 </p>
