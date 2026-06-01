@@ -1,13 +1,18 @@
 # Rafael dos Reis Silva
-**Information Security | Offensive Security | Software Development | DevSecOps**
+**Information Security | Offensive Security | AppSec**
 
 ---
 
-### 💻 About Me
-Developer and researcher specializing in **Offensive Security (Red Team)**, penetration testing, and secure software development. Deeply interested in **Development & Security**.
+💻 About Me
+Information Security Analyst specializing in **Application Security (AppSec)**, **SecOps**, and Vulnerability Management. I leverage an offensive security mindset (Red Team) to proactively secure codebases, validate defenses, and build resilient cloud infrastructure.
+
+🚀 **What I Do & Core Interests:**
+* **AppSec & DevSecOps:** Integrating automated security testing (SAST/DAST) into CI/CD pipelines and securing APIs.
+* **Vulnerability Management:** Leading end-to-end triage, risk priorization, and infrastructure remediation (Cloud & On-premise).
+* **Security Research:** Exploring the intersection of AI resilience, IoT architectures, and data poisoning countermeasures (BSides SP Speaker)[cite: 1].
 
 - 📍 São Paulo, Brazil
-- 🛡️ Focus: Pentesting, IoT Security, Computer Vision (YOLO) and Development.
+- 🛡️ Focus: Pentesting, IoT Security, Computer Vision (YOLO). 
 
 ---
 
@@ -18,17 +23,13 @@ Developer and researcher specializing in **Offensive Security (Red Team)**, pene
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-#### 📱 Mobile & Web Development
+#### Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
