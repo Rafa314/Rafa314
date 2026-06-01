@@ -10,7 +10,7 @@ Information Security Analyst specializing in **Application Security (AppSec)**, 
 🚀 **What I Do & Core Interests:**
 * **AppSec & DevSecOps:** Integrating automated security testing (SAST/DAST) into CI/CD pipelines and securing APIs.
 * **Vulnerability Management:** Leading end-to-end triage, risk priorization, and infrastructure remediation (Cloud & On-premise).
-* **Security Research:** Exploring the intersection of AI resilience, IoT architectures, and data poisoning countermeasures (BSides SP Speaker)[cite: 1].
+* **Security Research:** Exploring the intersection of AI resilience, IoT architectures, and data poisoning countermeasures
 
 - 📍 São Paulo, Brazil
 - 🛡️ Focus: Pentesting, IoT Security, Computer Vision (YOLO). 
@@ -49,7 +49,6 @@ Information Security Analyst specializing in **Application Security (AppSec)**, 
 ---
 
 ### 🎯 Current Focus
-- **Mobile Engineering:** Exploring ecosystem fundamentals and mobile security vectors through **Kotlin**, **Flutter**, and **Android Studio**.
 - **Academic Research:** Graduation project (TCC) focused on **IoT Security**, **Computer Vision (YOLO)**, and **Data Poisoning / IP Spoofing** simulations.
 
 ---
