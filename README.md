@@ -4,6 +4,7 @@
 ---
 
 💻 About Me
+
 Information Security Analyst specializing in **Application Security (AppSec)**, **SecOps**, and Vulnerability Management. I leverage an offensive security mindset (Red Team) to proactively secure codebases, validate defenses, and build resilient cloud infrastructure.
 
 🚀 **What I Do & Core Interests:**
