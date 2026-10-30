@@ -1,5 +1,5 @@
 # Rafael dos Reis Silva
-**Information Security | Offensive Security | Web and AI Pentest**
+**Information Security | Offensive Security | Web Pentest**
 
 ---
 
@@ -13,7 +13,7 @@ Information Security Analyst specializing in **Application Security (AppSec)**, 
 * **Security Research:** Exploring the intersection of AI resilience, IoT architectures, and data poisoning countermeasures
 
 - 📍 São Paulo, Brazil
-- 🛡️ Focus: Pentesting, IoT Security, Computer Vision (YOLO). 
+- 🛡️ Focus: RedTeam & Pentesting. 
 
 ---
 
